@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="medu-web-search:war">
+    <output-path>$PROJECT_DIR$/RabbitMQ资料/medu-parent/medu-web-search/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>medu-web-search</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="medu-web-search-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="medu-web-search:war exploded" />
+    </root>
+  </artifact>
+</component>

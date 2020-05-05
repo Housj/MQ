@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/RabbitMQ.iml" filepath="$PROJECT_DIR$/.idea/RabbitMQ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RabbitMQ资料/medu-parent/medu-common/medu-common.iml" filepath="$PROJECT_DIR$/RabbitMQ资料/medu-parent/medu-common/medu-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RabbitMQ资料/medu-parent/medu-parent.iml" filepath="$PROJECT_DIR$/RabbitMQ资料/medu-parent/medu-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RabbitMQ资料/medu-parent/medu-web-boss/medu-web-boss.iml" filepath="$PROJECT_DIR$/RabbitMQ资料/medu-parent/medu-web-boss/medu-web-boss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RabbitMQ资料/medu-parent/medu-web-search/medu-web-search.iml" filepath="$PROJECT_DIR$/RabbitMQ资料/medu-parent/medu-web-search/medu-web-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RabbitMQ资料/myrabbitmq/myrabbitmq.iml" filepath="$PROJECT_DIR$/RabbitMQ资料/myrabbitmq/myrabbitmq.iml" />
+    </modules>
+  </component>
+</project>
